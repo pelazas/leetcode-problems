@@ -10,7 +10,7 @@ Longest Consecutive Sequence - X
 - Sliding Window / Two Pointers
 Longest Substring Without Repeating Characters - X
 Minimum Window Substring - X
-3Sum
+3Sum - X
 Container With Most Water
 Permutation in String
 
