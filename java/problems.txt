@@ -1,9 +1,9 @@
 Problems to prepare for the IMC Amsterdam HackerRank 25/26
 
 - Arrays / Hashing
-Two Sum
-Contains Duplicate
-Top K Frequent Elements
+Two Sum - X
+Contains Duplicate - X
+Top K Frequent Elements - X
 Product of Array Except Self
 Longest Consecutive Sequence
 
