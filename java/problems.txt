@@ -35,4 +35,4 @@ Rotting Oranges - X
 Jump Game - X
 Gas Station - X
 Merge Intervals - X
-Insert Interval
+Insert Interval - X
