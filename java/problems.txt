@@ -34,5 +34,5 @@ Rotting Oranges - X
 - Greedy
 Jump Game - X
 Gas Station - X
-Merge Intervals
+Merge Intervals - X
 Insert Interval
