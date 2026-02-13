@@ -29,7 +29,7 @@ Top K Frequent Elements (again, but heap version) - X
 Number of Islands - X
 Clone Graph - X
 Course Schedule - X
-Rotting Oranges
+Rotting Oranges - X
 
 - Greedy
 Jump Game
