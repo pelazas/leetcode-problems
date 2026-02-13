@@ -32,7 +32,7 @@ Course Schedule - X
 Rotting Oranges - X
 
 - Greedy
-Jump Game
+Jump Game - X
 Gas Station
 Merge Intervals
 Insert Interval
