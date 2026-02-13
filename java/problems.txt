@@ -18,7 +18,7 @@ Permutation in String - X
 Binary Search - X
 Search in Rotated Sorted Array - X
 Find First and Last Position of Element in Sorted Array - X
-Koko Eating Bananas
+Koko Eating Bananas - X
 
 - Heaps / Priority Queue
 Kth Largest Element in an Array
